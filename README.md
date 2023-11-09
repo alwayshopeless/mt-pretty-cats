@@ -14,5 +14,5 @@ mobs
 
 ## Screenshots
 ![Cats](./screenshots/1.png "Cats")
-![Cats in darkness](./screenshots/1.png "Cats in darkess")
-![Big pussy](./screenshots/1.png "Big pussy")
+![Cats in darkness](./screenshots/2.png "Cats in darkess")
+![Big pussy](./screenshots/3.png "Big pussy")
