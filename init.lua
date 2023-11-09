@@ -11,7 +11,7 @@ mobs:register_mob("pretty_cats:pretty_cat", {
 	hp_min = 5,
 	hp_max = 10,
 	armor = 200,
-	collisionbox = {-0.0, -0.0, -0.0, 0.4, 0.4, 0.4},
+	collisionbox = {-0.2, 0.0, -0.2, 0.2, 0.0, 0.2},
 	visual = "mesh",
 	visual_size = {x = 0.5, y = 0.5},
 	mesh = "cat_simple.b3d",
