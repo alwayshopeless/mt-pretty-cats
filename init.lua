@@ -96,7 +96,16 @@ mobs:register_mob("pretty_cats:tigger", {
 	mesh = "tigger_simple.b3d",
 	textures = {
 		{"tigger_simple.png^tigger_ao.png"},
-		{"tigger_undead.png^tigger_ao.png"},
+-- 		{"tigger_undead.png^tigger_ao.png"},
+-- 		{"tigger_violet.png^tigger_ao.png"},
+		{"tigger_nordic.png^tigger_ao.png"},
+-- 		{"tigger_nordic2.png^tigger_ao.png"},
+		{"tigger_acid_pink.png^tigger_ao.png"},
+-- 		{"tigger_palegreen.png^tigger_ao.png"},
+-- 		{"tigger_bibaboba.png^tigger_ao.png"},
+		{"tigger_pale_sand.png^tigger_ao.png"},
+		{"tigger_pale_blue.png^tigger_ao.png"},
+		{"tigger_meh.png^tigger_ao.png"},
 	},
 	makes_footstep_sound = false,
 	sounds = {
