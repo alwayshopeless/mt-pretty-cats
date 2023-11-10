@@ -1,5 +1,5 @@
 # mt-pretty-cats
-Mintest mod, which adding pretty cats to your world
+Minetest mod, which adding pretty cats to your world
 
 # Usage
 Unpack to ~/.minetest/mods/ folder
