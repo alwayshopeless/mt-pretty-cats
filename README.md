@@ -9,7 +9,7 @@ mobs
 
 # Known problems
 1. Gaps at mesh seams
-2. Cats lighting in darkness(it's really problem?) upd: Fixed, i need just recreate world
+2. Cats lighting in darkness(it's really problem?) upd: Fixed, i was need just re-create world
 3. Model has many polygons, textures so large. Need retopology mesh for increase count of polygons and make pixel-texture with saving ambient occlusion.
 
 ## Screenshots
