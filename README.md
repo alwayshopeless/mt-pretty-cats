@@ -1,5 +1,5 @@
 # mt-pretty-cats
-Mintest mod, which adding pretty cats to your world
+Minetest mod, which adding pretty cats to your world
 
 # Usage
 Unpack to ~/.minetest/mods/ folder
@@ -9,7 +9,7 @@ mobs
 
 # Known problems
 1. Gaps at mesh seams
-2. Cats lighting in darkness(it's really problem?)
+2. Cats lighting in darkness(it's really problem?) upd: Fixed, i was need just re-create world
 3. Model has many polygons, textures so large. Need retopology mesh for increase count of polygons and make pixel-texture with saving ambient occlusion.
 
 ## Screenshots
